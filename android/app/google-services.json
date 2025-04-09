@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "381192590305",
+    "firebase_url": "https://l3as1-8cefe-default-rtdb.firebaseio.com",
+    "project_id": "l3as1-8cefe",
+    "storage_bucket": "l3as1-8cefe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381192590305:android:6b255de2a54c0d02a2f8a0",
+        "android_client_info": {
+          "package_name": "com.auraguidearchitecture.contemporaine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gjUfZ_pCGTHTaZ9PLWABEGB0Cxa8jYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381192590305-be7mbpi6ponndbk9qr9agt4uc4sfbfel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exploreaura.aura"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381192590305:android:c6aa6fb0b961f373a2f8a0",
+        "android_client_info": {
+          "package_name": "com.auraguidearchitecture.contemporaines"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gjUfZ_pCGTHTaZ9PLWABEGB0Cxa8jYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381192590305-be7mbpi6ponndbk9qr9agt4uc4sfbfel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exploreaura.aura"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381192590305:android:7b2d5cb04f0874c6a2f8a0",
+        "android_client_info": {
+          "package_name": "com.example.aura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gjUfZ_pCGTHTaZ9PLWABEGB0Cxa8jYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381192590305-be7mbpi6ponndbk9qr9agt4uc4sfbfel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exploreaura.aura"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381192590305:android:98f21bb702e86321a2f8a0",
+        "android_client_info": {
+          "package_name": "com.example.aura2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gjUfZ_pCGTHTaZ9PLWABEGB0Cxa8jYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381192590305-be7mbpi6ponndbk9qr9agt4uc4sfbfel.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exploreaura.aura"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
